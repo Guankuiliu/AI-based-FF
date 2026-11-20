@@ -7,4 +7,4 @@ This is part of the results, and the full code will be released once the paper i
 Demo: [Click here to view partial results](https://nbviewer.org/github/Guankuiliu/AI-based-FF/blob/main/Main.ipynb).
 
 - Temporal trends and algorithm co-occurrence in AI-based marine fisheries forecasting:
-![](./figure/Figure_02.png)
+![](./figure/Fig_02.png)
